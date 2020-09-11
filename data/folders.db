@@ -1,0 +1,5 @@
+{"name":"Creatures","type":"Actor","sort":null,"flags":{},"parent":null,"_id":"OwqheZOkBUlQeVGU"}
+{"name":"Spells","type":"Item","sort":null,"flags":{},"parent":null,"_id":"ObN7frPTA24kfhXM"}
+{"name":"Items","type":"Item","sort":null,"flags":{},"parent":null,"_id":"owdrA4lkCvmboWQ3"}
+{"name":"Tables","type":"RollTable","sort":null,"flags":{},"parent":null,"_id":"weRwNgSnpfBE2Vqh"}
+{"name":"Adventures","type":"JournalEntry","sort":null,"flags":{},"parent":null,"_id":"oJWcrgW1rRdXNuHb"}
