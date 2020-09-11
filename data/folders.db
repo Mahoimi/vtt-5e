@@ -3,3 +3,4 @@
 {"name":"Adventures","type":"JournalEntry","sort":null,"flags":{},"parent":null,"_id":"oJWcrgW1rRdXNuHb"}
 {"name":"Items","type":"Item","sort":null,"flags":{},"parent":null,"_id":"owdrA4lkCvmboWQ3"}
 {"name":"Tables","type":"RollTable","sort":null,"flags":{},"parent":null,"_id":"weRwNgSnpfBE2Vqh"}
+{"name":"Players","type":"Actor","sort":100000,"flags":{},"parent":null,"color":"","_id":"oKCrQZYldMdxX2ja"}
