@@ -6,3 +6,8 @@
 {"_id":"0gqyoiiF53OjlLcD","name":"Éléonore","flags":{},"role":1,"permissions":{},"password":"","color":"#28bbcc","hotbar":{}}
 {"_id":"lgaB1xDDOQwJ284Y","name":"Anton","flags":{},"role":1,"permissions":{},"password":"","color":"#28cc7b","hotbar":{}}
 {"_id":"X2CbLieYqEYe2FuY","name":"Yoan","flags":{},"role":1,"permissions":{},"password":"","color":"#28a4cc","hotbar":{}}
+{"_id":"lgaB1xDDOQwJ284Y","name":"Anton","flags":{},"role":1,"permissions":{},"password":"","avatar":"icons/svg/mystery-man.svg","character":"8MGO4o1skUOsaFJt","color":"#28cc7b","hotbar":{}}
+{"_id":"X2CbLieYqEYe2FuY","name":"Yoan","flags":{},"role":1,"permissions":{},"password":"","avatar":"icons/svg/mystery-man.svg","character":"JD0IRWxpgKYZd1Rb","color":"#a5124d","hotbar":{}}
+{"_id":"0gqyoiiF53OjlLcD","name":"Éléonore","flags":{},"role":1,"permissions":{},"password":"","avatar":"icons/svg/mystery-man.svg","character":"","color":"#8328cc","hotbar":{}}
+{"_id":"lgaB1xDDOQwJ284Y","name":"Anton","flags":{},"role":1,"permissions":{},"password":"","avatar":"icons/svg/mystery-man.svg","character":"8MGO4o1skUOsaFJt","color":"#28cc7b","hotbar":{"1":"KYumNIH8XCii94Of"}}
+{"_id":"X2CbLieYqEYe2FuY","name":"Yoan","flags":{},"role":1,"permissions":{},"password":"","avatar":"icons/svg/mystery-man.svg","character":"JD0IRWxpgKYZd1Rb","color":"#a5124d","hotbar":{"1":"Ab7MoZ3h90fUqMGt"}}
