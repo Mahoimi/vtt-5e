@@ -1,7 +1,7 @@
 {
   "name": "dnd-5e",
   "title": "Dungeons & Dragons - Tyranny of Dragons",
-  "description": "<p>After defeating the wearer of Purple Frulam Mondath and Visiperia Cyanwrath, the adventurers take a rest to heal and reflect on what has happened to them.</p>\n<p>A lot of questions are still unanswered &hellip;</p>\n<p>&nbsp;</p>",
+  "description": "<p>After discovering the travel plan of the cultists' cargo and destroying the dragon eggs in the Dragon Hatchery, the adventurers travel to Elturel to report back to Leosin.</p>",
   "version": "1.0.0",
   "minimumCoreVersion": "0.0.0",
   "compatibleCoreVersion": "1.0.0",
@@ -20,7 +20,7 @@
   "readme": "",
   "bugs": "",
   "changelog": "",
-  "background": "https://5e.tools/img/adventure/HotDQ/016-tod-03-01.png",
+  "background": "https://5e.tools/img/adventure/HotDQ/020-tod-04-01.png",
   "system": "dnd5e",
   "coreVersion": "0.6.6",
   "systemVersion": 0.96,
