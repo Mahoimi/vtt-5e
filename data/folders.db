@@ -1,3 +1,5 @@
+{"name":"Handouts","type":"JournalEntry","sort":100000,"flags":{},"parent":null,"color":"","_id":"9QoiqGrQsIj5AQJ9"}
+{"name":"On the Road NPCs","type":"JournalEntry","sort":200000,"flags":{},"parent":"9QoiqGrQsIj5AQJ9","color":"","_id":"ChQlr1sDEjIHqW4b"}
 {"name":"Spells","type":"Item","sort":null,"flags":{},"parent":null,"_id":"ObN7frPTA24kfhXM"}
 {"name":"Creatures","type":"Actor","sort":null,"flags":{},"parent":null,"_id":"OwqheZOkBUlQeVGU"}
 {"name":"Adventures","type":"JournalEntry","sort":null,"flags":{},"parent":null,"_id":"oJWcrgW1rRdXNuHb"}
