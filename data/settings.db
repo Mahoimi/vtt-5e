@@ -4,3 +4,7 @@
 {"key":"core.permissions","value":"{\"BROADCAST_AUDIO\":[2,3,4],\"BROADCAST_VIDEO\":[2,3,4],\"ACTOR_CREATE\":[3,4],\"DRAWING_CREATE\":[2,3,4],\"ITEM_CREATE\":[3,4],\"FILES_BROWSE\":[2,3,4],\"FILES_UPLOAD\":[3,4],\"JOURNAL_CREATE\":[2,3,4],\"MACRO_SCRIPT\":[1,2,3,4],\"MESSAGE_WHISPER\":[1,2,3,4],\"SETTINGS_MODIFY\":[3,4],\"SHOW_CURSOR\":[1,2,3,4],\"SHOW_RULER\":[1,2,3,4],\"TEMPLATE_CREATE\":[1,2,3,4],\"TOKEN_CREATE\":[3,4],\"TOKEN_CONFIGURE\":[2,3,4],\"WALL_DOORS\":[1,2,3,4]}","_id":"lN742TBe51J6NvaU"}
 {"key":"pings.minMovePermission","value":"\"1\"","_id":"pkDz80Q26MzWkXRX"}
 {"key":"dnd5e.initiativeDexTiebreaker","value":"true","_id":"ytzyVOGZLuthzrGm"}
+{"key":"core.time","value":"0","_id":"Hn5QZOgwe5rrb2iD"}
+{"_id":"gEBfwF5JtEgkUvFf","key":"core.moduleConfiguration","value":"{\"dice-so-nice\":true,\"plutonium\":true}"}
+{"_id":"8K28Qwb6OkwEnHqb","key":"dnd5e.systemMigrationVersion","value":"\"1.2.0\""}
+{"_id":"gEBfwF5JtEgkUvFf","key":"core.moduleConfiguration","value":"{\"dice-so-nice\":true,\"plutonium\":true,\"pings\":true}"}
